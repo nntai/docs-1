@@ -1,5 +1,5 @@
 ---
-title: Enabling or disabling GitHub Codespaces for your organization
+title: Enabling or disabling GitHub Codespaces for your organization testing
 shortTitle: 'Enable or disable Codespaces'
 intro: 'You can control which users can use {% data variables.product.prodname_github_codespaces %} in your organization''s private {% ifversion ghec %}and internal {% endif %}repositories.'
 permissions: 'Organization owners can control which users can use {% data variables.product.prodname_github_codespaces %}.'
