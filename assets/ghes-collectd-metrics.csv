@@ -1,4 +1,4 @@
-Plugin,Metric1
+Plugin,Metric2
 cpu,{{ HOSTNAME }}.cpu.percent-idle
 cpu,{{ HOSTNAME }}.cpu.percent-interrupt
 cpu,{{ HOSTNAME }}.cpu.percent-nice
