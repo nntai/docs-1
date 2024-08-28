@@ -1,5 +1,5 @@
 Plugin,Metric2
-cpu,{{ HOSTNAME }}.cpu.percent-idle3
+cpu,{{ HOSTNAME }}.cpu.percent-idle4
 cpu,{{ HOSTNAME }}.cpu.percent-interrupt
 cpu,{{ HOSTNAME }}.cpu.percent-nice
 cpu,{{ HOSTNAME }}.cpu.percent-softirq
